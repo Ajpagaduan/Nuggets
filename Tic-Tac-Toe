@@ -1,0 +1,16 @@
+Rows = 3
+Columns = 3
+sizeofsquare = 200
+radiusofcircle = 60
+offset = 55
+circlelinewidth= 15
+xlinewidth = 25
+widthofscreen = Columns * sizeofsquare
+heightofscreen = Rows * sizeofsquare
+colorofline = (0,0,0)
+backgroundcolour = (255,255,0)
+colorofcircle= (255,105,180)
+xcolor = (255,0,0)
+player = 0
+gameover = False
+inmenu = True
